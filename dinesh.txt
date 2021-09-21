@@ -1,3 +1,7 @@
 i am dinesh
+<<<<<<< Updated upstream
 kongu engineering
 computer science
+=======
+my roll number is 20CSR045
+>>>>>>> Stashed changes
